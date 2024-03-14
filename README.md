@@ -1,16 +1,8 @@
 # quizapp
 
 Basic Quiz App.
+![splashScreen](https://github.com/WhyisSuhaib/quizApp/assets/42011643/74c6f644-d7fc-405c-8883-957e9be65581)
+![quizScreen](https://github.com/WhyisSuhaib/quizApp/assets/42011643/d1e2d009-5445-4670-bb03-86ae6870ed7f)
+![resultScreen](https://github.com/WhyisSuhaib/quizApp/assets/42011643/98135fa5-be84-473a-8c64-f2e116359602)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
